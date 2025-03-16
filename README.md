@@ -1,4 +1,4 @@
-# Tetxtuals-Stopwatch
+# Textuals-Stopwatch
 Demoing textuals with a simple stopwatch app.
 
 <br />
