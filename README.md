@@ -25,7 +25,7 @@ uv run main.py
 
 Or do it all with one command
 ```bash
-uv sync && uv run main.py
+uv sync && uv run stopwatch.py
 ```
 
 <br />
