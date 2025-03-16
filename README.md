@@ -1,5 +1,5 @@
 # Textuals-Stopwatch
-Demoing textuals with a simple stopwatch app.
+A sample terminal app made with python.
 
 <br />
 
