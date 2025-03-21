@@ -9,7 +9,7 @@ A sample terminal app made with python.
 
 # Installing and running
 
-Install dependecies and create virtual environment wuth uv.
+Install dependencies and create virtual environment wuth uv.
 ```bash
 uv sync
 ```
